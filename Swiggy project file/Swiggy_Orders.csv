@@ -1,0 +1,11 @@
+order_id,user_id,order_amount,order_time,cuisine
+1,1001,250,Lunch,Indian
+2,1002,300,Dinner,Chinese
+3,1001,150,Lunch,Italian
+4,1003,400,Breakfast,Indian
+5,1004,500,Dinner,Italian
+6,1002,230,Lunch,Chinese
+7,1001,120,Dinner,Mexican
+8,1005,330,Breakfast,Indian
+9,1004,470,Lunch,Mexican
+10,1003,410,Dinner,Chinese
