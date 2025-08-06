@@ -1,0 +1,11 @@
+month,product_id,category,sales,year,month_name,Month,Year
+2023-01-31,201,Electronics,1000,2023,January,January,2023
+2023-02-28,202,Clothing,1500,2023,February,February,2023
+2023-03-31,203,Books,700,2023,March,March,2023
+2023-04-30,201,Electronics,1100,2023,April,April,2023
+2023-05-31,202,Clothing,1400,2023,May,May,2023
+2023-06-30,203,Books,750,2023,June,June,2023
+2023-07-31,201,Electronics,1150,2023,July,July,2023
+2023-08-31,202,Clothing,1550,2023,August,August,2023
+2023-09-30,203,Books,720,2023,September,September,2023
+2023-10-31,201,Electronics,1200,2023,October,October,2023
